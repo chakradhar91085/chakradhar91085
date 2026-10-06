@@ -106,7 +106,7 @@
   <rect width="800" height="320" fill="url(#ceVig)"/>
 
   <!-- text -->
-  <text class="ce-eyebrow" x="48" y="128" fill="#d9b25b" font-family="Georgia, 'Times New Roman', serif" font-size="12" letter-spacing="4">SOFTWARE ENGINEER</text>
+  <text class="ce-eyebrow" x="48" y="128" fill="#d9b25b" font-family="Georgia, 'Times New Roman', serif" font-size="12" letter-spacing="4">ASPIRING AI ENGINEER</text>
   <text class="ce-name" x="48" y="168" fill="#eef2fb" font-family="Georgia, 'Times New Roman', serif" font-size="44" letter-spacing="1">Chakradhar Reddy</text>
 
   <!-- gold star divider -->
@@ -119,5 +119,5 @@
   
 
   <!-- meta -->
-  <text class="ce-meta" x="48" y="268" fill="#9fb1d6" font-family="Georgia, 'Times New Roman', serif" font-size="12" letter-spacing="1.5">SOFTWARE ENGINEER</text>
+  <text class="ce-meta" x="48" y="268" fill="#9fb1d6" font-family="Georgia, 'Times New Roman', serif" font-size="12" letter-spacing="1.5">CSE (AI &amp; ML) · CMR INSTITUTE OF TECHNOLOGY</text>
 </svg>

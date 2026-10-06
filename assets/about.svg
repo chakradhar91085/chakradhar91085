@@ -90,10 +90,10 @@
   <rect class="ce-rule" x="48" y="82" width="140" height="1.5" fill="#d9b25b" opacity="0.6"/>
 
   <!-- bio -->
-  <text class="ce-bio ce-bio-0" x="48" y="128" fill="#eef2fb" font-family="Georgia, 'Times New Roman', serif" font-size="15">I build things that turn LLM rollouts into accountable workflows.</text>
-  <text class="ce-bio ce-bio-1" x="48" y="154" fill="#eef2fb" font-family="Georgia, 'Times New Roman', serif" font-size="15">Lately: agent observability, replayable runs, and the kind of</text>
-  <text class="ce-bio ce-bio-2" x="48" y="180" fill="#eef2fb" font-family="Georgia, 'Times New Roman', serif" font-size="15">debugging tooling I wish existed when I started.</text>
+  <text class="ce-bio ce-bio-0" x="48" y="128" fill="#eef2fb" font-family="Georgia, 'Times New Roman', serif" font-size="15">Aspiring AI engineer building LLM-powered apps that stay grounded.</text>
+  <text class="ce-bio ce-bio-1" x="48" y="154" fill="#eef2fb" font-family="Georgia, 'Times New Roman', serif" font-size="15">Lately: Graph-RAG with Neo4j + Ollama that catches data-probing</text>
+  <text class="ce-bio ce-bio-2" x="48" y="180" fill="#eef2fb" font-family="Georgia, 'Times New Roman', serif" font-size="15">queries, and a DistilBERT model that flags toxic text in real time.</text>
 
   <!-- meta -->
-  <text class="ce-meta" x="48" y="262" fill="#9fb1d6" font-family="Georgia, 'Times New Roman', serif" font-size="12" letter-spacing="1.5">SOFTWARE ENGINEER</text>
+  <text class="ce-meta" x="48" y="262" fill="#9fb1d6" font-family="Georgia, 'Times New Roman', serif" font-size="12" letter-spacing="1.5">ASPIRING AI ENGINEER · BENGALURU</text>
 </svg>

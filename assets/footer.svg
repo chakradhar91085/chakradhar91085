@@ -76,5 +76,5 @@
 
   <text class="ce-eyebrow" x="400" y="74" text-anchor="middle" fill="#d9b25b" font-family="Georgia, 'Times New Roman', serif" font-size="12" letter-spacing="5">THANKS FOR STOPPING BY</text>
   <text class="ce-name" x="400" y="112" text-anchor="middle" fill="#eef2fb" font-family="Georgia, 'Times New Roman', serif" font-size="30" letter-spacing="1">Chakradhar Reddy</text>
-  <text class="ce-socials" x="400" y="142" text-anchor="middle" fill="#9fb1d6" font-family="Georgia, 'Times New Roman', serif" font-size="12" letter-spacing="2">GITHUB</text>
+  <text class="ce-socials" x="400" y="142" text-anchor="middle" fill="#9fb1d6" font-family="Georgia, 'Times New Roman', serif" font-size="12" letter-spacing="2">GITHUB · LINKEDIN · LEETCODE</text>
 </svg>

@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header.svg" width="100%" alt="Chakradhar Reddy — Software Engineer" />
+<img src="./assets/header.svg" width="100%" alt="Chakradhar Reddy — Aspiring AI Engineer" />
 
 <a href="https://github.com/chakradhar91085">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=D9B25B&center=true&vCenter=true&width=640&lines=Aspiring+AI+Engineer+%E2%9C%A6+CSE+(AI+%26+ML)+%40+CMRIT;Building+Graph-RAG+with+Neo4j+%2B+Ollama;Membrain+AI+Hackathon+%E2%80%94+1st+Place+%F0%9F%8F%86" alt="Typing animation" />
@@ -18,7 +18,7 @@
 
 <br/>
 
-<img src="./assets/about.svg" width="100%" alt="About — I build things that turn LLM rollouts into accountable workflows." />
+<img src="./assets/about.svg" width="100%" alt="About — Aspiring AI engineer building LLM-powered apps that stay grounded." />
 
 <br/>
 
