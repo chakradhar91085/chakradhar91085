@@ -24,18 +24,16 @@
 
 <img src="./assets/skills.svg" width="100%" alt="Skills — TypeScript, Python, Neo4j, Java, Postgres, Ollama, FastAPI, React" />
 
-### Languages and Tools:
+### 🧭 Tools I'm Still Figuring Out:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,java,js,ts,html,css,react,nodejs,express,fastapi,pytorch,vite&perline=12" alt="Languages and frameworks" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,prisma,redis,docker,git,github,vscode&perline=12" alt="Databases and tools" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,py,react,mysql,tensorflow,pytorch,vscode,visualstudio,linux&perline=11" alt="C, C++, Java, Python, React, MySQL, TensorFlow, PyTorch, VS Code, Visual Studio, WSL" />
 </p>
 
 ### 🌱 Currently Learning:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,tensorflow,docker,kubernetes" alt="JavaScript, TypeScript, TensorFlow, Docker, Kubernetes" />
+  <img src="https://skillicons.dev/icons?i=js,ts,docker,kubernetes" alt="JavaScript, TypeScript, Docker, Kubernetes" />
 </p>
 
 <br/>
