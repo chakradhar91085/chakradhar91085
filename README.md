@@ -21,24 +21,20 @@
 
 <img src="./assets/skills.svg" width="100%" alt="Skills — TypeScript, Python, Swift, Rust, Postgres, Kubernetes, FastAPI, React" />
 
-<div align="center">
+### Languages and Tools:
 
-<img src="https://img.shields.io/badge/TypeScript-0d142e?style=for-the-badge&logo=typescript&logoColor=d9b25b" />
-<img src="https://img.shields.io/badge/Python-0d142e?style=for-the-badge&logo=python&logoColor=d9b25b" />
-<img src="https://img.shields.io/badge/Swift-0d142e?style=for-the-badge&logo=swift&logoColor=d9b25b" />
-<img src="https://img.shields.io/badge/Rust-0d142e?style=for-the-badge&logo=rust&logoColor=d9b25b" />
-<img src="https://img.shields.io/badge/Postgres-0d142e?style=for-the-badge&logo=postgresql&logoColor=d9b25b" />
-<img src="https://img.shields.io/badge/Kubernetes-0d142e?style=for-the-badge&logo=kubernetes&logoColor=d9b25b" />
-<img src="https://img.shields.io/badge/FastAPI-0d142e?style=for-the-badge&logo=fastapi&logoColor=d9b25b" />
-<img src="https://img.shields.io/badge/React-0d142e?style=for-the-badge&logo=react&logoColor=d9b25b" />
-
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,py,swift,rust,react,fastapi,postgres,kubernetes,git,github,vscode&perline=12" alt="Languages and tools" />
+</p>
 
 <br/>
 
 <img src="./assets/gh-stats.svg" width="100%" alt="GitHub stats" />
 
 <div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chakradhar91085&layout=compact&langs_count=8&bg_color=0d142e&title_color=d9b25b&text_color=eef2fb&border_color=262c45" height="190" alt="Most used languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=chakradhar91085&show_icons=true&include_all_commits=false&bg_color=0d142e&title_color=d9b25b&text_color=eef2fb&icon_color=d9b25b&ring_color=d9b25b&border_color=262c45" height="190" alt="GitHub stats" />
 
 <img src="https://streak-stats.demolab.com?user=chakradhar91085&background=0D142E&border=262C45&ring=D9B25B&fire=D9B25B&currStreakNum=EEF2FB&sideNums=EEF2FB&currStreakLabel=D9B25B&sideLabels=8FA3CF&dates=8FA3CF&hide_border=false" width="70%" alt="GitHub streak" />
 

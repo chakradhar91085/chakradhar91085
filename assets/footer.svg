@@ -10,7 +10,6 @@
     .ce-eyebrow { animation: ceReveal 9s ease-out infinite; animation-delay: 0.54s; }
     .ce-name { animation: ceReveal 9s ease-out infinite; animation-delay: 1.08s; }
     .ce-socials { animation: ceReveal 9s ease-out infinite; animation-delay: 1.80s; }
-    .ce-credit { animation: ceReveal 9s ease-out infinite; animation-delay: 2.52s; }
     
   </style>
 
@@ -78,5 +77,4 @@
   <text class="ce-eyebrow" x="400" y="74" text-anchor="middle" fill="#d9b25b" font-family="Georgia, 'Times New Roman', serif" font-size="12" letter-spacing="5">THANKS FOR STOPPING BY</text>
   <text class="ce-name" x="400" y="112" text-anchor="middle" fill="#eef2fb" font-family="Georgia, 'Times New Roman', serif" font-size="30" letter-spacing="1">Chakradhar Reddy</text>
   <text class="ce-socials" x="400" y="142" text-anchor="middle" fill="#9fb1d6" font-family="Georgia, 'Times New Roman', serif" font-size="12" letter-spacing="2">GITHUB</text>
-  <text class="ce-credit" x="400" y="168" text-anchor="middle" fill="#9fb1d6" fill-opacity="0.6" font-family="Georgia, 'Times New Roman', serif" font-size="9" letter-spacing="3">CHARTED ON RYME.MD</text>
 </svg>
