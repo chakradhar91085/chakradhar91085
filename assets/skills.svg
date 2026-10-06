@@ -1,0 +1,128 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="266" viewBox="0 0 800 266">
+  <style>
+    
+    @keyframes ceTwinkle { 0%, 100% { opacity: 0.25; } 50% { opacity: 1; } }
+    @keyframes ceReveal { 0%, 5% { opacity: 0; transform: translateY(6px); } 18%, 90% { opacity: 1; transform: translateY(0); } 100% { opacity: 0; } }
+    @keyframes ceWipe { 0%, 8% { transform: scaleX(0); } 24%, 90% { transform: scaleX(1); } 100% { transform: scaleX(1); } }
+
+    
+    .ce-eyebrow { animation: ceReveal 9s ease-out infinite; }
+    .ce-count { animation: ceReveal 9s ease-out infinite; animation-delay: 0.90s; }
+    .ce-rule { animation: ceWipe 9s ease-out infinite; transform-box: fill-box; transform-origin: left center; animation-delay: 0.54s; }
+    .ce-row { animation: ceReveal 9s ease-out infinite; }
+    .ce-row-0 { animation-delay: 1.08s; }
+    .ce-row-1 { animation-delay: 1.35s; }
+    .ce-row-2 { animation-delay: 1.62s; }
+    .ce-row-3 { animation-delay: 1.89s; }
+    .ce-row-4 { animation-delay: 2.16s; }
+    .ce-row-5 { animation-delay: 2.43s; }
+    .ce-row-6 { animation-delay: 2.70s; }
+    .ce-row-7 { animation-delay: 2.97s; }
+    
+  </style>
+
+  <defs>
+    <linearGradient id="ceSky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#262c45"/>
+      <stop offset="0.55" stop-color="#0d142e"/>
+      <stop offset="1" stop-color="#070b18"/>
+    </linearGradient>
+    <radialGradient id="ceVig" cx="0.5" cy="0.42" r="0.78">
+      <stop offset="0.6" stop-color="#000000" stop-opacity="0"/>
+      <stop offset="1" stop-color="#000000" stop-opacity="0.45"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="266" fill="url(#ceSky)"/>
+  <circle cx="216" cy="58" r="0.47" fill="#eef2fb" opacity="0.53" style="animation: ceTwinkle 2.82s ease-in-out 2.75s infinite"/>
+  <circle cx="291" cy="251" r="1.50" fill="#eef2fb" opacity="0.61" style="animation: ceTwinkle 3.92s ease-in-out 2.37s infinite"/>
+  <circle cx="662" cy="117" r="1.42" fill="#eef2fb" opacity="0.75" style="animation: ceTwinkle 3.14s ease-in-out 2.04s infinite"/>
+  <circle cx="595" cy="236" r="1.01" fill="#d9b25b" opacity="0.37" style="animation: ceTwinkle 3.72s ease-in-out 2.66s infinite"/>
+  <circle cx="400" cy="147" r="1.12" fill="#eef2fb" opacity="0.75" style="animation: ceTwinkle 3.45s ease-in-out 1.02s infinite"/>
+  <circle cx="160" cy="188" r="1.55" fill="#eef2fb" opacity="0.51" style="animation: ceTwinkle 4.18s ease-in-out 0.31s infinite"/>
+  <circle cx="695" cy="3" r="0.68" fill="#d9b25b" opacity="0.38" style="animation: ceTwinkle 2.00s ease-in-out 1.18s infinite"/>
+  <circle cx="520" cy="133" r="1.32" fill="#eef2fb" opacity="0.59" style="animation: ceTwinkle 2.69s ease-in-out 1.71s infinite"/>
+  <circle cx="624" cy="63" r="1.15" fill="#eef2fb" opacity="0.50" style="animation: ceTwinkle 3.79s ease-in-out 2.73s infinite"/>
+  <circle cx="497" cy="118" r="0.81" fill="#eef2fb" opacity="0.36" style="animation: ceTwinkle 2.74s ease-in-out 2.78s infinite"/>
+  <circle cx="255" cy="209" r="0.50" fill="#d9b25b" opacity="0.79" style="animation: ceTwinkle 4.09s ease-in-out 0.66s infinite"/>
+  <circle cx="345" cy="83" r="0.85" fill="#eef2fb" opacity="0.31" style="animation: ceTwinkle 4.01s ease-in-out 1.69s infinite"/>
+  <circle cx="540" cy="182" r="1.33" fill="#d9b25b" opacity="0.77" style="animation: ceTwinkle 3.42s ease-in-out 1.62s infinite"/>
+  <circle cx="61" cy="53" r="1.28" fill="#d9b25b" opacity="0.53" style="animation: ceTwinkle 2.78s ease-in-out 2.18s infinite"/>
+  <circle cx="25" cy="205" r="1.37" fill="#eef2fb" opacity="0.59" style="animation: ceTwinkle 4.47s ease-in-out 0.54s infinite"/>
+  <circle cx="389" cy="46" r="0.77" fill="#eef2fb" opacity="0.79" style="animation: ceTwinkle 4.08s ease-in-out 1.68s infinite"/>
+  <circle cx="233" cy="209" r="0.87" fill="#eef2fb" opacity="0.71" style="animation: ceTwinkle 2.85s ease-in-out 2.17s infinite"/>
+  <circle cx="317" cy="262" r="0.41" fill="#eef2fb" opacity="0.32" style="animation: ceTwinkle 2.99s ease-in-out 0.78s infinite"/>
+  <circle cx="524" cy="224" r="1.55" fill="#eef2fb" opacity="0.46" style="animation: ceTwinkle 2.49s ease-in-out 0.95s infinite"/>
+  <circle cx="472" cy="232" r="0.69" fill="#eef2fb" opacity="0.37" style="animation: ceTwinkle 2.50s ease-in-out 0.28s infinite"/>
+  <circle cx="168" cy="105" r="0.79" fill="#d9b25b" opacity="0.50" style="animation: ceTwinkle 2.59s ease-in-out 0.89s infinite"/>
+  <circle cx="645" cy="230" r="1.30" fill="#eef2fb" opacity="0.38" style="animation: ceTwinkle 3.86s ease-in-out 1.65s infinite"/>
+  <circle cx="56" cy="203" r="0.95" fill="#eef2fb" opacity="0.30" style="animation: ceTwinkle 3.10s ease-in-out 0.90s infinite"/>
+  <circle cx="391" cy="133" r="1.08" fill="#eef2fb" opacity="0.35" style="animation: ceTwinkle 2.33s ease-in-out 2.67s infinite"/>
+  <circle cx="284" cy="120" r="1.14" fill="#eef2fb" opacity="0.67" style="animation: ceTwinkle 3.81s ease-in-out 1.49s infinite"/>
+  <circle cx="281" cy="132" r="0.56" fill="#eef2fb" opacity="0.67" style="animation: ceTwinkle 4.07s ease-in-out 1.94s infinite"/>
+  <circle cx="326" cy="134" r="1.52" fill="#eef2fb" opacity="0.62" style="animation: ceTwinkle 3.07s ease-in-out 0.40s infinite"/>
+  <circle cx="543" cy="262" r="1.49" fill="#eef2fb" opacity="0.78" style="animation: ceTwinkle 2.14s ease-in-out 2.38s infinite"/>
+  <circle cx="342" cy="207" r="1.18" fill="#eef2fb" opacity="0.61" style="animation: ceTwinkle 2.31s ease-in-out 1.20s infinite"/>
+  <circle cx="588" cy="33" r="1.29" fill="#d9b25b" opacity="0.37" style="animation: ceTwinkle 3.94s ease-in-out 2.00s infinite"/>
+  <circle cx="684" cy="251" r="1.11" fill="#eef2fb" opacity="0.75" style="animation: ceTwinkle 3.76s ease-in-out 2.11s infinite"/>
+  <circle cx="99" cy="171" r="1.02" fill="#eef2fb" opacity="0.32" style="animation: ceTwinkle 3.29s ease-in-out 0.14s infinite"/>
+  <circle cx="799" cy="125" r="0.50" fill="#eef2fb" opacity="0.42" style="animation: ceTwinkle 3.96s ease-in-out 0.69s infinite"/>
+  <circle cx="169" cy="43" r="1.21" fill="#eef2fb" opacity="0.52" style="animation: ceTwinkle 2.63s ease-in-out 1.51s infinite"/>
+  <circle cx="434" cy="141" r="1.27" fill="#eef2fb" opacity="0.71" style="animation: ceTwinkle 4.41s ease-in-out 1.98s infinite"/>
+  <circle cx="643" cy="208" r="0.79" fill="#eef2fb" opacity="0.35" style="animation: ceTwinkle 3.82s ease-in-out 1.52s infinite"/>
+  <circle cx="18" cy="233" r="1.47" fill="#d9b25b" opacity="0.77" style="animation: ceTwinkle 2.83s ease-in-out 0.72s infinite"/>
+  <circle cx="384" cy="189" r="1.31" fill="#eef2fb" opacity="0.39" style="animation: ceTwinkle 4.34s ease-in-out 2.53s infinite"/>
+  <circle cx="624" cy="172" r="0.79" fill="#eef2fb" opacity="0.30" style="animation: ceTwinkle 4.47s ease-in-out 2.18s infinite"/>
+  <circle cx="704" cy="26" r="0.83" fill="#eef2fb" opacity="0.63" style="animation: ceTwinkle 4.44s ease-in-out 2.33s infinite"/>
+  <rect width="800" height="266" fill="url(#ceVig)"/>
+
+  <!-- eyebrow + count -->
+  <g class="ce-eyebrow">
+    <path d="M 54 59 L 55.3 62.7 L 59 64 L 55.3 65.3 L 54 69 L 52.7 65.3 L 49 64 L 52.7 62.7 Z" fill="#d9b25b"/>
+    <text x="70" y="69" fill="#d9b25b" font-family="Georgia, 'Times New Roman', serif" font-size="12" letter-spacing="4">STAR CATALOGUE</text>
+  </g>
+  <text class="ce-count" x="752" y="69" text-anchor="end" fill="#9fb1d6" font-family="Georgia, 'Times New Roman', serif" font-size="11" letter-spacing="1.5">08 OBJECTS</text>
+  <rect class="ce-rule" x="48" y="82" width="704" height="1" fill="#d9b25b" opacity="0.5"/>
+
+  <!-- catalogue -->
+  <g class="ce-row ce-row-0">
+      <path d="M 55 101.5 L 56.17 104.83 L 59.5 106 L 56.17 107.17 L 55 110.5 L 53.83 107.17 L 50.5 106 L 53.83 104.83 Z" fill="#d9b25b"/>
+      <text x="70" y="110" fill="#eef2fb" font-family="Georgia, 'Times New Roman', serif" font-size="14">TypeScript</text>
+      <text x="380" y="110" text-anchor="end" fill="#9fb1d6" font-family="Georgia, 'Times New Roman', serif" font-size="10" letter-spacing="1">m 1.2</text>
+    </g>
+  <g class="ce-row ce-row-1">
+      <path d="M 427 101.5 L 428.17 104.83 L 431.5 106 L 428.17 107.17 L 427 110.5 L 425.83 107.17 L 422.5 106 L 425.83 104.83 Z" fill="#d9b25b"/>
+      <text x="442" y="110" fill="#eef2fb" font-family="Georgia, 'Times New Roman', serif" font-size="14">Python</text>
+      <text x="752" y="110" text-anchor="end" fill="#9fb1d6" font-family="Georgia, 'Times New Roman', serif" font-size="10" letter-spacing="1">m 3.3</text>
+    </g>
+  <g class="ce-row ce-row-2">
+      <path d="M 55 131.5 L 56.17 134.83 L 59.5 136 L 56.17 137.17 L 55 140.5 L 53.83 137.17 L 50.5 136 L 53.83 134.83 Z" fill="#d9b25b"/>
+      <text x="70" y="140" fill="#eef2fb" font-family="Georgia, 'Times New Roman', serif" font-size="14">Swift</text>
+      <text x="380" y="140" text-anchor="end" fill="#9fb1d6" font-family="Georgia, 'Times New Roman', serif" font-size="10" letter-spacing="1">m 2.7</text>
+    </g>
+  <g class="ce-row ce-row-3">
+      <path d="M 427 131.5 L 428.17 134.83 L 431.5 136 L 428.17 137.17 L 427 140.5 L 425.83 137.17 L 422.5 136 L 425.83 134.83 Z" fill="#d9b25b"/>
+      <text x="442" y="140" fill="#eef2fb" font-family="Georgia, 'Times New Roman', serif" font-size="14">Rust</text>
+      <text x="752" y="140" text-anchor="end" fill="#9fb1d6" font-family="Georgia, 'Times New Roman', serif" font-size="10" letter-spacing="1">m 2.1</text>
+    </g>
+  <g class="ce-row ce-row-4">
+      <path d="M 55 161.5 L 56.17 164.83 L 59.5 166 L 56.17 167.17 L 55 170.5 L 53.83 167.17 L 50.5 166 L 53.83 164.83 Z" fill="#d9b25b"/>
+      <text x="70" y="170" fill="#eef2fb" font-family="Georgia, 'Times New Roman', serif" font-size="14">Postgres</text>
+      <text x="380" y="170" text-anchor="end" fill="#9fb1d6" font-family="Georgia, 'Times New Roman', serif" font-size="10" letter-spacing="1">m 1.5</text>
+    </g>
+  <g class="ce-row ce-row-5">
+      <path d="M 427 161.5 L 428.17 164.83 L 431.5 166 L 428.17 167.17 L 427 170.5 L 425.83 167.17 L 422.5 166 L 425.83 164.83 Z" fill="#d9b25b"/>
+      <text x="442" y="170" fill="#eef2fb" font-family="Georgia, 'Times New Roman', serif" font-size="14">Kubernetes</text>
+      <text x="752" y="170" text-anchor="end" fill="#9fb1d6" font-family="Georgia, 'Times New Roman', serif" font-size="10" letter-spacing="1">m 3.6</text>
+    </g>
+  <g class="ce-row ce-row-6">
+      <path d="M 55 191.5 L 56.17 194.83 L 59.5 196 L 56.17 197.17 L 55 200.5 L 53.83 197.17 L 50.5 196 L 53.83 194.83 Z" fill="#d9b25b"/>
+      <text x="70" y="200" fill="#eef2fb" font-family="Georgia, 'Times New Roman', serif" font-size="14">FastAPI</text>
+      <text x="380" y="200" text-anchor="end" fill="#9fb1d6" font-family="Georgia, 'Times New Roman', serif" font-size="10" letter-spacing="1">m 3.0</text>
+    </g>
+  <g class="ce-row ce-row-7">
+      <path d="M 427 191.5 L 428.17 194.83 L 431.5 196 L 428.17 197.17 L 427 200.5 L 425.83 197.17 L 422.5 196 L 425.83 194.83 Z" fill="#d9b25b"/>
+      <text x="442" y="200" fill="#eef2fb" font-family="Georgia, 'Times New Roman', serif" font-size="14">React</text>
+      <text x="752" y="200" text-anchor="end" fill="#9fb1d6" font-family="Georgia, 'Times New Roman', serif" font-size="10" letter-spacing="1">m 2.4</text>
+    </g>
+  
+</svg>
