@@ -33,7 +33,7 @@
 ### 🌱 Currently Learning:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,docker,kubernetes" alt="JavaScript, TypeScript, Docker, Kubernetes" />
+  <img src="https://skillicons.dev/icons?i=js,ts,docker,kubernetes,neo4j,n8n" alt="JavaScript, TypeScript, Docker, Kubernetes, Neo4j, n8n" />
 </p>
 
 <br/>
