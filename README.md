@@ -56,7 +56,7 @@ Privacy-aware Graph-RAG security framework. It watches query behaviour to stop p
 </td>
 <td width="50%" valign="top">
 
-#### 📬 [Outbox Email Scheduler](https://outbox-email-scheduler-ten.vercel.app/)
+#### 📬 [Outbox Email Scheduler](https://outbox-scheduler-web.onrender.com/)
 Asynchronous email campaign scheduler: CSV recipients, staggered delivery, per-sender rate limits, retries and live status tracking, powered by Redis + BullMQ workers.
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-0d142e?style=flat-square&logo=typescript&logoColor=d9b25b)
@@ -65,7 +65,7 @@ Asynchronous email campaign scheduler: CSV recipients, staggered delivery, per-s
 ![Redis](https://img.shields.io/badge/Redis-0d142e?style=flat-square&logo=redis&logoColor=d9b25b)
 ![Docker](https://img.shields.io/badge/Docker-0d142e?style=flat-square&logo=docker&logoColor=d9b25b)
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-d9b25b?style=flat-square&logo=vercel&logoColor=0d142e)](https://outbox-email-scheduler-ten.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-d9b25b?style=flat-square&logo=render&logoColor=0d142e)](https://outbox-scheduler-web.onrender.com/)
 
 </td>
 </tr>
