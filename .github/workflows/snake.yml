@@ -22,6 +22,9 @@ jobs:
             dist/github-snake.svg?color_snake=#d9b25b&color_dots=#ebedf0,#c6d1e8,#8fa3cf,#4a5f99,#262c45
             dist/github-snake-dark.svg?palette=github-dark&color_snake=#d9b25b&color_dots=#0d142e,#262c45,#4a5f99,#8fa3cf,#eef2fb
 
+      # snk runs as root in Docker, so dist/ must be made writable for the next action
+      - run: sudo chown -R "$USER" dist
+
       - uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
