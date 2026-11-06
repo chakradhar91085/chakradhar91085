@@ -1,3 +1,4 @@
+<!-- ═══════════════════════ HEADER ═══════════════════════ -->
 <div align="center">
 
 <img src="./assets/header.svg" width="100%" alt="Chakradhar Reddy — Aspiring AI Engineer" />
@@ -18,6 +19,7 @@
 
 <br/>
 
+<!-- ═══════════════════════ ABOUT + SKILLS ═══════════════════════ -->
 <img src="./assets/about.svg" width="100%" alt="About — Aspiring AI engineer building LLM-powered apps that stay grounded." />
 
 <br/>
@@ -38,6 +40,7 @@
 
 <br/>
 
+<!-- ═══════════════════════ PROJECTS ═══════════════════════ -->
 ### 🚀 Featured Projects:
 
 <table>
@@ -71,6 +74,7 @@ Asynchronous email campaign scheduler: CSV recipients, staggered delivery, per-s
 </tr>
 </table>
 
+<!-- ═══════════════════════ HIGHLIGHTS ═══════════════════════ -->
 ### 🏆 Highlights:
 
 - 🥇 **1st Place** — Membrain AI Hackathon (2026)
@@ -79,9 +83,15 @@ Asynchronous email campaign scheduler: CSV recipients, staggered delivery, per-s
 
 <br/>
 
+<!-- ═══════════════════════ GITHUB STATS ═══════════════════════ -->
+### 📊 GitHub Stats:
+
 <img src="./assets/gh-stats.svg" width="100%" alt="GitHub stats" />
 
 <div align="center">
+
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=chakradhar91085&layout=compact&langs_count=8&bg_color=0d142e&title_color=d9b25b&text_color=eef2fb&border_color=262c45" height="190" alt="Most used languages" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=chakradhar91085&show_icons=true&include_all_commits=false&bg_color=0d142e&title_color=d9b25b&text_color=eef2fb&icon_color=d9b25b&ring_color=d9b25b&border_color=262c45" height="190" alt="GitHub stats" />
 
 <img src="https://streak-stats.demolab.com?user=chakradhar91085&background=0D142E&border=262C45&ring=D9B25B&fire=D9B25B&currStreakNum=EEF2FB&sideNums=EEF2FB&currStreakLabel=D9B25B&sideLabels=8FA3CF&dates=8FA3CF&hide_border=false" width="70%" alt="GitHub streak" />
 
@@ -89,7 +99,16 @@ Asynchronous email campaign scheduler: CSV recipients, staggered delivery, per-s
 
 <br/>
 
+<!-- ═══════════════════════ CONTRIBUTION ARCADE ═══════════════════════ -->
 <div align="center">
+
+## 🕹️ Contribution Arcade
+
+### 🏙️ My contributions as a 3D city
+
+<img src="./profile-3d-contrib/profile-night-view.svg" alt="3D contribution city" width="100%" />
+
+<br/>
 
 ### 🐍 Snake eating my contributions
 
@@ -99,8 +118,35 @@ Asynchronous email campaign scheduler: CSV recipients, staggered delivery, per-s
   <img src="https://raw.githubusercontent.com/chakradhar91085/chakradhar91085/output/github-snake-dark.svg" alt="Snake eating contribution graph" width="100%" />
 </picture>
 
+<br/>
+
+### 👻 Pac-Man eating my contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chakradhar91085/chakradhar91085/output-pacman/pacman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chakradhar91085/chakradhar91085/output-pacman/pacman-contribution-graph.svg" />
+  <img src="https://raw.githubusercontent.com/chakradhar91085/chakradhar91085/output-pacman/pacman-contribution-graph-dark.svg" alt="Pac-Man eating contribution graph" width="100%" />
+</picture>
+
+<br/>
+
+### 🧱 Breaking my contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chakradhar91085/chakradhar91085/github-breakout/images/breakout-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chakradhar91085/chakradhar91085/github-breakout/images/breakout-light.svg" />
+  <img src="https://raw.githubusercontent.com/chakradhar91085/chakradhar91085/github-breakout/images/breakout-dark.svg" alt="Breakout game on contribution graph" width="100%" />
+</picture>
+
+<br/>
+
+### 🗓️ My year, isometric
+
+<img src="./metrics.plugin.isocalendar.fullyear.svg" alt="Isometric contribution calendar" width="100%" />
+
 </div>
 
 <br/>
 
+<!-- ═══════════════════════ FOOTER ═══════════════════════ -->
 <img src="./assets/footer.svg" width="100%" alt="Thanks for stopping by — Chakradhar Reddy" />
