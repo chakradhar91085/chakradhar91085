@@ -104,12 +104,6 @@ Asynchronous email campaign scheduler: CSV recipients, staggered delivery, per-s
 
 ## 🕹️ Contribution Arcade
 
-### 🏙️ My contributions as a 3D city
-
-<img src="./profile-3d-contrib/profile-night-view.svg" alt="3D contribution city" width="100%" />
-
-<br/>
-
 ### 🐍 Snake eating my contributions
 
 <picture>
@@ -117,32 +111,6 @@ Asynchronous email campaign scheduler: CSV recipients, staggered delivery, per-s
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chakradhar91085/chakradhar91085/output/github-snake.svg" />
   <img src="https://raw.githubusercontent.com/chakradhar91085/chakradhar91085/output/github-snake-dark.svg" alt="Snake eating contribution graph" width="100%" />
 </picture>
-
-<br/>
-
-### 👻 Pac-Man eating my contributions
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chakradhar91085/chakradhar91085/output-pacman/pacman-contribution-graph-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chakradhar91085/chakradhar91085/output-pacman/pacman-contribution-graph.svg" />
-  <img src="https://raw.githubusercontent.com/chakradhar91085/chakradhar91085/output-pacman/pacman-contribution-graph-dark.svg" alt="Pac-Man eating contribution graph" width="100%" />
-</picture>
-
-<br/>
-
-### 🧱 Breaking my contributions
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chakradhar91085/chakradhar91085/github-breakout/images/breakout-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chakradhar91085/chakradhar91085/github-breakout/images/breakout-light.svg" />
-  <img src="https://raw.githubusercontent.com/chakradhar91085/chakradhar91085/github-breakout/images/breakout-dark.svg" alt="Breakout game on contribution graph" width="100%" />
-</picture>
-
-<br/>
-
-### 🗓️ My year, isometric
-
-<img src="./metrics.plugin.isocalendar.fullyear.svg" alt="Isometric contribution calendar" width="100%" />
 
 </div>
 
