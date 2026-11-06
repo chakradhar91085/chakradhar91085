@@ -83,9 +83,6 @@ Asynchronous email campaign scheduler: CSV recipients, staggered delivery, per-s
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chakradhar91085&layout=compact&langs_count=8&bg_color=0d142e&title_color=d9b25b&text_color=eef2fb&border_color=262c45" height="190" alt="Most used languages" />
-<img src="https://github-readme-stats.vercel.app/api?username=chakradhar91085&show_icons=true&include_all_commits=false&bg_color=0d142e&title_color=d9b25b&text_color=eef2fb&icon_color=d9b25b&ring_color=d9b25b&border_color=262c45" height="190" alt="GitHub stats" />
-
 <img src="https://streak-stats.demolab.com?user=chakradhar91085&background=0D142E&border=262C45&ring=D9B25B&fire=D9B25B&currStreakNum=EEF2FB&sideNums=EEF2FB&currStreakLabel=D9B25B&sideLabels=8FA3CF&dates=8FA3CF&hide_border=false" width="70%" alt="GitHub streak" />
 
 </div>
