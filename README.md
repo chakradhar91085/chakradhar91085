@@ -120,16 +120,6 @@ Asynchronous email campaign scheduler: CSV recipients, staggered delivery, per-s
 
 <br/>
 
-### 👻 Pac-Man eating my contributions
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chakradhar91085/chakradhar91085/output/pacman-contribution-graph-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chakradhar91085/chakradhar91085/output/pacman-contribution-graph.svg" />
-  <img src="https://raw.githubusercontent.com/chakradhar91085/chakradhar91085/output/pacman-contribution-graph-dark.svg" alt="Pac-Man eating contribution graph" width="100%" />
-</picture>
-
-<br/>
-
 </div>
 
 <br/>
