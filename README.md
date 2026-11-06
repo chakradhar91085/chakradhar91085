@@ -130,20 +130,6 @@ Asynchronous email campaign scheduler: CSV recipients, staggered delivery, per-s
 
 <br/>
 
-### 🧱 Breaking my contributions
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chakradhar91085/chakradhar91085/output/breakout-contribution-graph-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chakradhar91085/chakradhar91085/output/breakout-contribution-graph.svg" />
-  <img src="https://raw.githubusercontent.com/chakradhar91085/chakradhar91085/output/breakout-contribution-graph-dark.svg" alt="Breakout game on contribution graph" width="100%" />
-</picture>
-
-<br/>
-
-### 🗓️ My year, isometric
-
-<img src="./metrics.plugin.isocalendar.fullyear.svg" alt="Isometric contribution calendar" width="100%" />
-
 </div>
 
 <br/>
